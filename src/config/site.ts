@@ -1,9 +1,8 @@
-export type SiteConfig = typeof siteConfig
+export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
   name: "Jikan",
-  description:
-    "Personal Time Tracking App.",
+  description: "Personal Time Tracking App.",
   mainNav: [
     {
       title: "Home",
@@ -15,4 +14,4 @@ export const siteConfig = {
     github: "https://github.com/DevAseel",
     docs: "https://github.com/DevAseel",
   },
-}
+};
