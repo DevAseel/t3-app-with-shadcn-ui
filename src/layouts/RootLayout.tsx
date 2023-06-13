@@ -1,5 +1,3 @@
-import { Metadata } from "next";
-import { siteConfig } from "~/config/site";
 import { fontSans } from "~/utils/fonts";
 import { cn } from "~/utils/lib";
 import { SiteHeader } from "~/components/site-header";
